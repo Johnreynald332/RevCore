@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from com_win import gathering_info
 import  com_gen
 from com_linux import gathering
