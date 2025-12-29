@@ -45,8 +45,10 @@ The collected information can then be used as a foundation for *post-exploitatio
 Make the script executable and run it directly:
 
 ```bash
+pip install -r requirements.txt
 chmod +x RevCore.py
 ./RevCore.py
+
 
 No additional arguments are required.
 
